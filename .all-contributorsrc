@@ -1,0 +1,27 @@
+{
+  "projectName": "fastinbytes",
+  "projectOwner": "satyarohith",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "satyarohith",
+      "name": "Satya Rohith",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29819102?v=4",
+      "profile": "https://satyarohith.com",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
