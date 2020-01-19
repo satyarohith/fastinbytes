@@ -1,6 +1,6 @@
 # Fast in Bytes
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A browser extension to display network speed in bytes on fast.com.
@@ -25,6 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://satyarohith.com"><img src="https://avatars2.githubusercontent.com/u/29819102?v=4" width="100px;" alt=""/><br /><sub><b>Satya Rohith</b></sub></a><br /><a href="https://github.com/satyarohith/fastinbytes/commits?author=satyarohith" title="Code">💻</a> <a href="#design-satyarohith" title="Design">🎨</a> <a href="https://github.com/satyarohith/fastinbytes/commits?author=satyarohith" title="Documentation">📖</a> <a href="#ideas-satyarohith" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://nithishravindra.com"><img src="https://avatars1.githubusercontent.com/u/36659651?v=4" width="100px;" alt=""/><br /><sub><b>nithish ravindra</b></sub></a><br /><a href="#ideas-Nithishravindra" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
