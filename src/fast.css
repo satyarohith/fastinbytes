@@ -1,0 +1,7 @@
+#manupulated > h1 {
+  font-size: 4rem;
+}
+
+#manupulated > h1 > sup {
+  font-size: 2rem;
+}
