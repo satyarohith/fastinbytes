@@ -1,6 +1,9 @@
 # Fast in Bytes
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A browser extension to display network speed in bytes on fast.com.
@@ -10,10 +13,6 @@ A browser extension to display network speed in bytes on fast.com.
 ## Installation
 
 Will provide a link soon after it's published.
-
-## License
-
-MIT © [Satya Rohith](https://satyarohith.com)
 
 ## Contributors ✨
 
@@ -31,6 +30,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+
+MIT © [Satya Rohith](https://satyarohith.com)

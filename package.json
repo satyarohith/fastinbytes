@@ -1,0 +1,15 @@
+{
+  "name": "fastinbytes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:satyarohith/fastinbytes.git",
+  "author": "Satya Rohith <me@satyarohith.com>",
+  "license": "MIT",
+  "scripts": {
+    "contributors:add": "yarn all-contributors add",
+    "contributors:generate": "yarn all-contributors generate"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.13.0"
+  }
+}
