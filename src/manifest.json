@@ -9,5 +9,8 @@
       "js": ["fast.js"],
       "css": ["fast.css"]
     }
-  ]
+  ],
+  "icons": {
+    "128": "128.png"
+  }
 }
