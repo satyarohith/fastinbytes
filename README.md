@@ -14,6 +14,8 @@ A browser extension to display network speed in bytes on fast.com.
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/obgghgheidhjlkgolpabbncemnmpkpac)
 
+- [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/fastinbytes/)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
