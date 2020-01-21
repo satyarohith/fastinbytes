@@ -12,7 +12,7 @@ A browser extension to display network speed in bytes on fast.com.
 
 ## Installation
 
-Will provide a link soon after it's published.
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/obgghgheidhjlkgolpabbncemnmpkpac)
 
 ## Contributors ✨
 
